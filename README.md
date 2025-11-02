@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 
 </div>
 
